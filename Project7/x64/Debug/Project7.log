@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\student\source\repos\Project7\Source.c(13,3): warning C4098: main: функция типа "void", возвращающая значение
+  Project7.vcxproj -> C:\Users\student\source\repos\Project6\x64\Debug\Project7.exe
